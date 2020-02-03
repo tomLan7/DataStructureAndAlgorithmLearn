@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法和数据结构特训", "算法和数据结构特训\算法和数据结构特训.vcxproj", "{10F27449-4794-419A-8712-4A1D8D23DF02}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法", "算法\算法.vcxproj", "{C158AC5F-85E3-4206-BC11-9DF345A72913}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构", "数据结构\数据结构.vcxproj", "{41E8626C-21BD-464E-ABEE-416869F9750A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lx", "lx\lx.vcxproj", "{3E825AD5-97C7-46D4-A181-98484E0ECA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F27449-4794-419A-8712-4A1D8D23DF02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10F27449-4794-419A-8712-4A1D8D23DF02}.Debug|Win32.Build.0 = Debug|Win32
+		{10F27449-4794-419A-8712-4A1D8D23DF02}.Release|Win32.ActiveCfg = Release|Win32
+		{10F27449-4794-419A-8712-4A1D8D23DF02}.Release|Win32.Build.0 = Release|Win32
+		{C158AC5F-85E3-4206-BC11-9DF345A72913}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C158AC5F-85E3-4206-BC11-9DF345A72913}.Debug|Win32.Build.0 = Debug|Win32
+		{C158AC5F-85E3-4206-BC11-9DF345A72913}.Release|Win32.ActiveCfg = Release|Win32
+		{C158AC5F-85E3-4206-BC11-9DF345A72913}.Release|Win32.Build.0 = Release|Win32
+		{41E8626C-21BD-464E-ABEE-416869F9750A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41E8626C-21BD-464E-ABEE-416869F9750A}.Debug|Win32.Build.0 = Debug|Win32
+		{41E8626C-21BD-464E-ABEE-416869F9750A}.Release|Win32.ActiveCfg = Release|Win32
+		{41E8626C-21BD-464E-ABEE-416869F9750A}.Release|Win32.Build.0 = Release|Win32
+		{3E825AD5-97C7-46D4-A181-98484E0ECA3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E825AD5-97C7-46D4-A181-98484E0ECA3E}.Debug|Win32.Build.0 = Debug|Win32
+		{3E825AD5-97C7-46D4-A181-98484E0ECA3E}.Release|Win32.ActiveCfg = Release|Win32
+		{3E825AD5-97C7-46D4-A181-98484E0ECA3E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
