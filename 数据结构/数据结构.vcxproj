@@ -73,20 +73,22 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\容器.h" />
+    <ClInclude Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\树.h" />
     <ClInclude Include="ptr.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="thread.h" />
     <ClInclude Include="数组.h" />
     <ClInclude Include="模板.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\容器.cpp" />
+    <ClCompile Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\树.cpp" />
     <ClCompile Include="ptr.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="thread.cpp" />
     <ClCompile Include="数组.cpp" />
     <ClCompile Include="模板.cpp" />
   </ItemGroup>

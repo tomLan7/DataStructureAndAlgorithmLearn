@@ -33,7 +33,10 @@
     <ClInclude Include="ptr.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="thread.h">
+    <ClInclude Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\容器.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -50,7 +53,10 @@
     <ClCompile Include="ptr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="thread.cpp">
+    <ClCompile Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Administrator\Documents\Tencent Files\1336104266\FileRecv\算法和数据结构特训\数据结构\容器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
